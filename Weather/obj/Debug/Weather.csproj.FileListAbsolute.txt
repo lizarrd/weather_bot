@@ -1,0 +1,13 @@
+C:\Users\430\documents\visual studio 2015\Projects\Weather\Weather\bin\Debug\Weather.exe.config
+C:\Users\430\documents\visual studio 2015\Projects\Weather\Weather\bin\Debug\Weather.exe
+C:\Users\430\documents\visual studio 2015\Projects\Weather\Weather\bin\Debug\Weather.pdb
+C:\Users\430\documents\visual studio 2015\Projects\Weather\Weather\bin\Debug\Excel.dll
+C:\Users\430\documents\visual studio 2015\Projects\Weather\Weather\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\430\documents\visual studio 2015\Projects\Weather\Weather\bin\Debug\ImapX.dll
+C:\Users\430\documents\visual studio 2015\Projects\Weather\Weather\bin\Debug\Excel.pdb
+C:\Users\430\documents\visual studio 2015\Projects\Weather\Weather\obj\Debug\Weather.csproj.ResolveComReference.cache
+C:\Users\430\documents\visual studio 2015\Projects\Weather\Weather\obj\Debug\Weather.ProjectInstaller.resources
+C:\Users\430\documents\visual studio 2015\Projects\Weather\Weather\obj\Debug\Weather.csproj.GenerateResource.Cache
+C:\Users\430\documents\visual studio 2015\Projects\Weather\Weather\obj\Debug\Weather.exe
+C:\Users\430\documents\visual studio 2015\Projects\Weather\Weather\obj\Debug\Weather.pdb
+C:\Users\430\documents\visual studio 2015\Projects\Weather\Weather\obj\Debug\Weather.csprojResolveAssemblyReference.cache

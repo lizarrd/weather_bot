@@ -1,0 +1,39 @@
+﻿Выполняется установка сборки 'C:\Users\430\Documents\Visual Studio 2015\Projects\Weather\Weather\bin\Debug\Weather.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\430\Documents\Visual Studio 2015\Projects\Weather\Weather\bin\Debug\Weather.InstallLog
+   assemblypath = C:\Users\430\Documents\Visual Studio 2015\Projects\Weather\Weather\bin\Debug\Weather.exe
+Отсутствуют общие программы установки с атрибутом RunInstallerAttribute.Yes в сборке C:\Users\430\Documents\Visual Studio 2015\Projects\Weather\Weather\bin\Debug\Weather.exe.
+Выполняется фиксация сборки 'C:\Users\430\Documents\Visual Studio 2015\Projects\Weather\Weather\bin\Debug\Weather.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\430\Documents\Visual Studio 2015\Projects\Weather\Weather\bin\Debug\Weather.InstallLog
+   assemblypath = C:\Users\430\Documents\Visual Studio 2015\Projects\Weather\Weather\bin\Debug\Weather.exe
+Отсутствуют общие программы установки с атрибутом RunInstallerAttribute.Yes в сборке C:\Users\430\Documents\Visual Studio 2015\Projects\Weather\Weather\bin\Debug\Weather.exe.
+Удалите файл InstallState, поскольку отсутствуют программы установки.
+Выполняется установка сборки 'C:\Users\430\Documents\Visual Studio 2015\Projects\Weather\Weather\bin\Debug\Weather.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\430\Documents\Visual Studio 2015\Projects\Weather\Weather\bin\Debug\Weather.InstallLog
+   assemblypath = C:\Users\430\Documents\Visual Studio 2015\Projects\Weather\Weather\bin\Debug\Weather.exe
+Устанавливается служба Service1...
+Служба Service1 успешно установлена.
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется фиксация сборки 'C:\Users\430\Documents\Visual Studio 2015\Projects\Weather\Weather\bin\Debug\Weather.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\430\Documents\Visual Studio 2015\Projects\Weather\Weather\bin\Debug\Weather.InstallLog
+   assemblypath = C:\Users\430\Documents\Visual Studio 2015\Projects\Weather\Weather\bin\Debug\Weather.exe
+Выполняется установка сборки 'C:\Users\430\Documents\Visual Studio 2015\Projects\Weather\Weather\bin\Debug\Weather.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\430\Documents\Visual Studio 2015\Projects\Weather\Weather\bin\Debug\Weather.InstallLog
+   assemblypath = C:\Users\430\Documents\Visual Studio 2015\Projects\Weather\Weather\bin\Debug\Weather.exe
+Устанавливается служба Service1...
+Служба Service1 успешно установлена.
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется фиксация сборки 'C:\Users\430\Documents\Visual Studio 2015\Projects\Weather\Weather\bin\Debug\Weather.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\430\Documents\Visual Studio 2015\Projects\Weather\Weather\bin\Debug\Weather.InstallLog
+   assemblypath = C:\Users\430\Documents\Visual Studio 2015\Projects\Weather\Weather\bin\Debug\Weather.exe
